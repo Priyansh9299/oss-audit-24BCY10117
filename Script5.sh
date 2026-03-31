@@ -30,11 +30,13 @@ OUTPUT="manifesto_$(whoami).txt"
 
 # Write manifesto
 
-echo "On $DATE, I believe that open-source tools like $TOOL represent $FREEDOM." > $OUTPUT
+echo "On 31 March 2026, I affirm that open-source software, such as mysql, embodies the fundamental right of choice." > $OUTPUT
 
-echo "In the future, I would love to build $BUILD and share it freely with the world." >> $OUTPUT
+echo "Looking to the future, my commitment is to architect new opportunities, which I shall open-source and share unreservedly with the global community" >> $OUTPUT
 
-echo "Open source allows knowledge to grow and communities to innovate together." >> $OUTPUT
+echo "to foster collective collective advancement. The true essence of open source liescapacity to democratize knowledge, empowering all all to innovate" >> $OUTPUT
+
+echo "and communities to co-create a more equitable future." >> $OUTPUT
 
 echo ""
 echo "Manifesto saved to $OUTPUT"
